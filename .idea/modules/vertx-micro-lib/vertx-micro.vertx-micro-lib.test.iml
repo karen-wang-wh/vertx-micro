@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../lib/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../lib/build/generated/source/kapt/test" />
+    <content url="file://$MODULE_DIR$/../../../lib/build/generated/source/kaptKotlin/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../lib/build/generated/source/kaptKotlin/test" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../lib/src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="vertx-micro.vertx-micro-lib.main" />
+    <orderEntry type="module-library">
+      <library name="Gradle: kaptGeneratedClasses">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../lib/build/tmp/kapt3/classes/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-lang-kotlin:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-lang-kotlin-coroutines:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-codegen:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-service-proxy:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-service-discovery:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-ignite:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-circuit-breaker:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-core:4.0.0.CR2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.11.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ignite:ignite-core:2.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hdrhistogram:HdrHistogram:2.1.10" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler-proxy:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http2:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test:1.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:16.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: javax.cache:cache-api:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.gridgain:ignite-shmem:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-dns:4.1.49.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.4.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.6.0" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="vertx-micro.vertx-micro-lib.main" />
+</module>
